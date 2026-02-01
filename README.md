@@ -1,2 +1,0 @@
-# codsoft
-Artificial Intelligence Internship
